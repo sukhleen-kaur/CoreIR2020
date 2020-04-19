@@ -1,4 +1,4 @@
-# CoreIR
+# Adaptive Training With K-Means and Hierarchical Clustering
 
 ##### Group 22: Cremers, Kaur, Koesomo
 
